@@ -1,0 +1,84 @@
+{
+  "header": {
+    "home": "Home",
+    "blocks": "Blocks",
+    "transactions": "Transactions",
+    "events": "Events",
+    "ecosystems": "Ecosystems",
+    "faq": "FAQ",
+    "changeLanguage": "Change language"
+  },
+  "footer": {
+    "content": "All rights reserved"
+  },
+  "home": {
+    "explorer": "Explorer",
+    "search": "SEARCH",
+    "searchHint": "Search by block/tx hash",
+    "searchNotFound": "Sorry, that page was not found.",
+    "searchNotFoundDetail": "Try going back to where you were or heading to the home page.",
+    "viewAll": "VIEW ALL",
+    "ExploreBlocks": "Explore Blocks",
+    "ExploreTransactions": "Explore Transactions",
+    "EpochStartTime": "Epoch Start Time",
+    "StartEndBlock": "Start - End Block",
+    "TargetBlockTime": "Target Block Time(m)",
+    "": ""
+  },
+  "block": {
+    "title": "Block",
+    "Height": "Height",
+    "Author": "Author",
+    "Difficulty": "Difficulty",
+    "ParentHash": "Parant Hash",
+    "Transactions": "Transactions",
+    "": ""
+  },
+  "transaction": {
+    "title": "Transaction",
+    "NoTransactionData": "No Transaction Data",
+    "Type": "Type",
+    "BlockHash": "Block Hash",
+    "BlockHeight": "Block Height",
+    "StateRootHash": "State Root Hash",
+    "Status": "Status",
+    "": ""
+  },
+  "event": {
+    "title": "Event",
+    "NoEventData": "No Event Data",
+    "Data": "Data",
+    "Key": "Key",
+    "Seq": "Seq",
+    "": ""
+  },
+  "ecosystems": {
+    "cards": {
+      "title_0": "Starcoin",
+      "description_0": "A Layered Smart Contract and Decentralized Financial Network.",
+      "title_1": "Starcoin White PaPer",
+      "description_1": "Starcoin is inspired by Bitcoin with enhanced security and reasonable performance.We inherit Bitcoin's remarkable security mechanism and provide the high transaction throughput capability, by improving the PoW algorithm and introducing a multi-layer network.",
+      "title_2": "Starcoin Developer",
+      "description_2": "Roadmap, Features, Install, Build from Source, Run by docker, Run/Join Network, Using the starcoin console, First Transaction, Run custom chain network, Deploy Move Contract, User Defined Token, Formal Verification, Upgrade module with Dao, Account management, Key Concepts..."
+    }
+  },
+  "faq": "## What is Starcoin?\n\nStarcoin is a hierarchical, decentralized blockchain system.\n\n## Is there a white paper?\n\nHave. It can be downloaded on Starcoin official website: http://starcoin.org/\n\n## What consensus does Starcoin adopt?\n\nThe first layer of Starcoin uses the POW consensus algorithm.\n\n## What language is used to write the contract?\n\nStarcoin adopts the same contract language as [diem](https://github.com/diem/diem): [Move](https://github.com/diem/diem/master/language/move-lang).\nMove is a contract language specially designed for on-chain assets. The contract can be formally verified, which has higher security than Solidity.\n\n## What is the Starcoin token model?\n\nSTC is the native token of Starcoin and adopts a token issuance model similar to Bitcoin: it is halved every four years.\n\n## Does Starcoin have its own Token standard, similar to ERC20?\nHave. Starcoin has a built-in Token contract, which defines a series of Token standards. Developers can develop their own tokens based on this contract.\n\n## Does Starcoin support decentralized governance?\n\nstand by. Starcoin has a built-in DAO contract, which can be used to decentralize the parameters of the chain itself.\nAt the same time, the developer-defined token can also be connected to the DAO standard to realize the DAO function of the token.\n\n## Does Starcoin support multi-signature accounts?\n\nYes.",
+  "common": {
+    "Hash": "Hash",
+    "Time": "Time",
+    "GasUsed": "Gas Used",
+    "": ""
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
