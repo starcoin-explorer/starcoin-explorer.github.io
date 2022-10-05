@@ -1,0 +1,2 @@
+(this["webpackJsonpstarcoin-explorer"]=this["webpackJsonpstarcoin-explorer"]||[]).push([[40],{872:function(e,t,s){"use strict";s.r(t);var r=s(0),n=s(22),o=s(112),c=s(1);class a extends r.PureComponent{render(){const{path:e}=this.props,t=e;return localStorage.setItem("network",t),Object(c.jsxs)(c.Fragment,{children:[Object(c.jsx)(o.a,{children:Object(c.jsxs)("title",{children:["Home - ",t]})}),Object(c.jsx)(n.a,{to:"/",state:{network:t}})]})}}t.default=a}}]);
+//# sourceMappingURL=40.735958a5.chunk.js.map

@@ -1,2 +1,0 @@
-(this["webpackJsonpstarcoin-explorer"]=this["webpackJsonpstarcoin-explorer"]||[]).push([[41],{869:function(e,t,r){"use strict";r.r(t);var c=r(0),n=r(22),s=r(1);t.default=function(){const e=Object(n.h)();return Object(c.useEffect)((()=>{const t=localStorage.getItem("redirect");e(t||"/")}),[]),Object(s.jsx)(s.Fragment,{children:"redirect"})}}}]);
-//# sourceMappingURL=41.3f4a68a2.chunk.js.map
